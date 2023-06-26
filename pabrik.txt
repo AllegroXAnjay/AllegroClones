@@ -3,3 +3,4 @@ anjayclones
 allegro
 allbwgheeh
 allegrotest
+allegromeki
